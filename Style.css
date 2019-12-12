@@ -1,0 +1,53 @@
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    bottom:250px;
+    width:200px;
+    height:200px;
+}
+
+h1{
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px;
+    border-bottom-color: black;
+}
+
+.default {
+     text-align: left;
+     padding: 20px;
+    font-size: 20px;
+    color:white;
+
+ }
+
+
+#month, #day, #username {
+    display: block;
+    height: 40px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    background-color:cadetblue;
+}
+#horoscope {
+    font-size: 20px;
+    text-align: center;
+    color:whitesmoke;
+    position:relative;
+    top:75px;
+}
+#Button{
+    display: block;
+    height: 40px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    position: relative;
+    top:25px;
+    cursor: pointer ;
+    background-color: cadetblue;
+}
